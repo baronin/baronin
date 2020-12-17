@@ -1,5 +1,4 @@
-### Hi there 👋
-# Hello, folks! <img src="https://raw.githubusercontent.com/artem-malko/self-presentation/main/wave.gif" width="30px">
+# Hello, folks! 👋
 
 My name is Yaroslav and there are some facts about me:
 
