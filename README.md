@@ -5,7 +5,7 @@ My name is Yaroslav and there are some facts about me:
 
 * From Ukraine ❄, Gorishni Plavni
 * Frontend developer in LemonBit
-* You can reach me via [email (baronin.yaroslav@gmail.com)](mailto:baronin.yaroslav@gmail.com) or [telegram  <img src="https://simpleicons.org/icons/telegram.svg" width="14px">](https://t.me/baronin_yaroslav)
+* You can reach me via [email (baronin.yaroslav@gmail.com)](mailto:baronin.yaroslav@gmail.com) or [telegram]  <img src="https://simpleicons.org/icons/telegram.svg" width="14px">](https://t.me/baronin_yaroslav)
 
 <br/>
 
