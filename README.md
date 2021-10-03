@@ -27,7 +27,7 @@ My name is Yaroslav and there are some facts about me:
 <br/>
 
 ### 📈 My GitHub Stats
-<p>![My github stats](https://github-readme-stats.vercel.app/api?username=baronin&show_icons=true&count_private=true&hide=stars) </p>
+![My github stats](https://github-readme-stats.vercel.app/api?username=baronin&show_icons=true&count_private=true&hide=stars)
 
 
 
