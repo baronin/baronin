@@ -21,17 +21,18 @@ My name is Yaroslav and there are some facts about me:
 
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baronin&label=Profile%20views&color=0e75b6&style=flat" alt="baronin" /> </p>
-
-<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baronin&show_icons=true&locale=en&layout=compact" alt="baronin" /></p>
 
 <br/>
 
 ### 📈 My GitHub Stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=baronin&show_icons=true&count_private=true&hide=stars)
+<p>![My github stats](https://github-readme-stats.vercel.app/api?username=baronin&show_icons=true&count_private=true&hide=stars) </p>
 
+
+
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baronin&label=Profile%20views&color=0e75b6&style=flat" alt="baronin" /> </p>
 <!--
 **baronin/baronin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
